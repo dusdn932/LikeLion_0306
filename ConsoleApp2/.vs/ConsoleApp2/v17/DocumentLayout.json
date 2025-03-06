@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\yeonwoo\\documents\\github\\likelion_0306\\consoleapp2\\consoleapp2\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\yeonwoo\\documents\\github\\likelion_0306\\consoleapp2\\consoleapp2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\yeonwoo\\documents\\github\\likelion_0306\\consoleapp2\\consoleapp2\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\yeonwoo\\documents\\github\\likelion_0306\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4784F8-2C63-4905-9E6A-F7C7B08D0FCE}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "warrior.cs",
+              "DocumentMoniker": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\warrior.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\warrior.cs",
+              "ToolTip": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\warrior.cs",
+              "RelativeToolTip": "ConsoleApp2\\warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:42:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\Mage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Mage.cs",
+              "ToolTip": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\Mage.cs",
+              "RelativeToolTip": "ConsoleApp2\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:34:15.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\GameCharacter.cs",
+              "RelativeToolTip": "ConsoleApp2\\GameCharacter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:25:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\yeonwoo\\Documents\\GitHub\\LikeLion_0306\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:23:56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
